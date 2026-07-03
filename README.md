@@ -1,4 +1,4 @@
 # odin-recipes
 The purpose of this project
 
-In the last couple of days I've learned some HTML basics, and getting used to working along with Git and GitHub. This project will be a simple recipe website to practice all the acquired knowledge
+In this project I'll showcase my recent knowledge on HTML. this project will be a simple recipe website containing dishes from a typical spanish restaurant menu using lists anchors, and basic HTML structure
